@@ -1,1 +1,3 @@
-# DATA_final_project
+Hi!
+
+[Blumenstock Response 2/4/2021] (https://daeshe.github.io/DATA_150_Dayshelay/blumenstock.html)
