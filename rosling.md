@@ -1,3 +1,5 @@
+# Rosling Response
+
 Rosling’s main thesis focuses on misconception and stereotyping. He begins with an anecdote about him testing his students on how much their thinking conforms to a certain breed of stereotypes. These are not cultural assumptions; they are blatant misconceptions of aspects that are highly indicative of a nation’s health. Rosling’s narrative highlights the divide between the western world and developing countries this form of misinformation can create, specifically the “Us-Them” mentality.
 
 He also states that the rate that Swedish students answer these questions correctly is less than that of chimpanzees, a variable that is virtually random. Statistical research dictates that if random chance is only given two options, the probability of choosing either option will skew towards equal as the data set grows.
