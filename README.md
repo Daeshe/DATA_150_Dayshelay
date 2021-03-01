@@ -8,4 +8,4 @@
 
 # Formal Responses
 
-[Anotated Bibliography 2/28/21](https://daeshe.github.io/DATA_150_Dayshelay/annotated_bib)
+[Anotated Bibliography 2/28/21](https://daeshe.github.io/DATA_150_Dayshelay/annotated_bib.html)
