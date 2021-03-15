@@ -9,3 +9,5 @@
 # Formal Responses
 
 [Anotated Bibliography 2/28/21](https://daeshe.github.io/DATA_150_Dayshelay/annotated_bib.html)
+
+[Literature Review 3/14/21 AKA "Why oreos are bad"](https://daeshe.github.io/DATA_150_Dayshelay/assignment2.html)
