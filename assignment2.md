@@ -1,6 +1,7 @@
-### The Palm Oil Industry’s Climatological Effects in Tropical Latitudes
-## By Dayshelay Evans
-## Word Count: 2234
+# The Palm Oil Industry’s Climatological Effects in Tropical Latitudes
+*by Dayshelay Evans*
+
+*Word Count: 2234*
 
 This literature review will focus on the tropical areas located within Indonesia its primary subject, due to its status as a developing nation and its tendency to be impacted by climatological events. Additionally, the extensive presence of palm oil plantations also served as a factor in the selection of these nations. As of 2006, Indonesia is designated as the largest producer of crude palm oil on the planet. (Ayompe et al., 2020) The nature of these plantations leads to disruption of the natural ecosystem and the subsequent collapse of many ecosystem services. Palm oil plants contribute to a monoculture that is unable to act as a substitute for typical diverse ecosystem. 
 
