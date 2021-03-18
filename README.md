@@ -6,6 +6,8 @@
 
 [Lightning Round 2/17/2021](https://daeshe.github.io/DATA_150_Dayshelay/lightning_round_1.html)
 
+[Lightning Round 3/16/2021](https://daeshe.github.io/DATA_150_Dayshelay/lightninground.html)
+
 # Formal Responses
 
 [Anotated Bibliography 2/28/21](https://daeshe.github.io/DATA_150_Dayshelay/annotated_bib.html)
