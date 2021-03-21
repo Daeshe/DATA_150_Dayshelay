@@ -6,4 +6,4 @@ Both of these texts bring to mind the term "proof of concept". The nature of any
 
 The presence of big data has also generated many algorithms, which contributes massively to the field of psychological marketing and advertising. Rather than having a general idea, or basing tactics off of a single academic study, scientists within corporations to directly harvest data from their consumer-base.
 
-If big data operates under the premise of theory, then theory is bolstered, is it not? How else will we generate ideas? Collect
+If big data operates under the premise of theory, then theory is bolstered, is it not? How else will we generate ideas? How does innovation continue? How do societies utilize this to create prosperity?
