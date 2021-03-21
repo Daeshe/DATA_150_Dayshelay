@@ -4,7 +4,7 @@
 
 [Rosling Response 2/8/2021](https://daeshe.github.io/DATA_150_Dayshelay/rosling.html)
 
-[Lightning Round 2/17/2021](https://daeshe.github.io/DATA_150_Dayshelay/lightning_round_1.html)
+[Lightning Round 2/17/2021](https://daeshe.github.io/DATA_150_Dayshelay/lightning_round217.html)
 
 [Lightning Round 3/16/2021](https://daeshe.github.io/DATA_150_Dayshelay/lightninground.html)
 
