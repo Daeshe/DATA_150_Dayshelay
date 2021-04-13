@@ -1,0 +1,1 @@
+I find it interesting that inorganic elements (cities) can be so easily compared to, can so easily replicate, organic elements. However, they are bound to be more similar than surface level. Cities are bound to die, just as living organisms are. However, they don't die as quickly. At this point, they feel immortal. 
