@@ -30,5 +30,6 @@ As emphasized by the authors of each study, the results obtained can, and should
 
 ## Works Cited
 Andersson, K. P., Smith, S. M., Alston, L., Duchelle, A., Mwangi, E., Larson, A., . . . Wong, G. (2018). Wealth and the distribution of benefits from tropical forests: Implications for REDD+. Land Use Policy, 72, 510-522. doi:https://doi.org/10.1016/j.landusepol.2018.01.012.
+
 Lawrence, D., & Vandecar, K. (2015). Effects of tropical deforestation on climate and agriculture. Nature Climate Change, 5, 27-36. doi:https://doi.org/10.1038/nclimate2430
 
