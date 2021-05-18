@@ -18,3 +18,5 @@
 [Literature Review 3/14/21 AKA "Why oreos are bad"](https://daeshe.github.io/DATA_150_Dayshelay/assignment2.html)
 
 [Assignment 3](https://github.com/Daeshe/DATA_150_Dayshelay/blob/main/assignment3.html)
+
+[Presentation Slides](https://github.com/Daeshe/DATA_150_Dayshelay/blob/main/1%203.html)
